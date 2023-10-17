@@ -1,4 +1,4 @@
 householder
 ===========
 
-A versioned packaging system for python
+A versioned packaging system
